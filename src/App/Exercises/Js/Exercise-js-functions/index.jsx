@@ -1,6 +1,9 @@
 import './styles.css';
 
 export function Exercise() {
+  const value1 = 5;
+  const value2 = 3;
+
   function multiply(num1, num2) {
     return num1 * num2;
   }
@@ -8,9 +11,21 @@ export function Exercise() {
   function getWelcomeMessage(name, amount) {
     return `Witaj ${name}! Jesteś ${amount} uzytkownikiem odwiedzającym tę stronę!`;
   }
+  const cars = ['Audi', 'Vw', 'Seat', 'Skoda'];
 
+  const multiplyResult = multiply(value1, value2);
   return (
     <div>
+      <b>Wynik mnożenia:{multiply(value1, value2)}</b>
+      <hr />
+      <h4>Auta:</h4>
+      <ol>
+        {cars.map((car) => {
+          return <li>{car}</li>;
+        })}
+      </ol>
+      <hr />
+
       <p>Definiowanie funkcji</p>
       <pre>
         <code>
