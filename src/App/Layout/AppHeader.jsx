@@ -7,9 +7,7 @@ export function AppHeader() {
   return (
     <header>
       <div>
-        <Link to="/">
-          <Logo />
-        </Link>
+        <Logo />
       </div>
     </header>
   );
