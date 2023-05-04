@@ -1,0 +1,55 @@
+.welcome {
+  padding: 50px;
+  padding-left: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.welcome-title {
+  font-weight: 500;
+  font-style: normal;
+}
+.welcome-left {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  width: 50%;
+  float: left;
+}
+.welcome-right {
+  font-style: normal;
+  font-weight: 550;
+  font-size: 16px;
+  text-align: center;
+  width: 50%;
+  float: right;
+}
+
+.welcome-left button {
+  background-color: rgb(253, 59, 59);
+  height: 50px;
+  width: 300px;
+  border-style: solid;
+  border-radius: 8px;
+  color: #fc9a9a;
+  margin-top: 10px;
+  margin-right: 52%;
+}
+.welcome-left input {
+  background-color: rgb(255, 255, 255);
+  height: 35px;
+  width: 200px;
+  border-style: solid;
+  border-radius: 7px;
+  color: rgb(46, 45, 45);
+}
+
+.welcome-left input ::placeholder {
+  font-family: 'Times New Roman', Times, serif;
+}
+.number-letters {
+  font-style: normal;
+  font-weight: 550;
+  font-size: 16px;
+  text-align: center;
+  width: 50%;
+  float: right;
+}
