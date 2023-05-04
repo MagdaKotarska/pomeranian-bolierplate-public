@@ -1,0 +1,15 @@
+.font-test-family {
+  font-family: 'Times New Roman', Times, serif;
+}
+.button1 {
+  width: 90px;
+  height: 40px;
+  background: #d1233d;
+  border: solid rgb(255, 165, 0);
+  border-radius: 10px;
+  color: #ffffff;
+  margin-right: 20px;
+  font-weight: 500;
+  font: size 18px;
+  line-height: 31px;
+}
