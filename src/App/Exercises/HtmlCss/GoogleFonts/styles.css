@@ -1,0 +1,32 @@
+.google-fonts {
+  font-family: 'roboto';
+}
+.google-fonts1 {
+  font-family: 'kanit';
+}
+.google-fonts2 {
+  font-family: 'foldit';
+}
+.google-fonts3 {
+  font-family: 'oswald';
+}
+.google-fonts4 {
+  font-family: 'lato';
+}
+.animation {
+  background-color: red;
+  border: 10px solid black;
+  animation-name: change-background;
+  animation-duration: 6s;
+  animation-delay: 3s;
+  animation-iteration-count: infinite;
+}
+@keyframes change-background {
+  0% {
+    background-color: blue;
+  }
+  100% {
+    background-color: orange;
+    border: 1px solid black;
+  }
+}

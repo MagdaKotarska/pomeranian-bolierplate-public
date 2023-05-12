@@ -5,6 +5,7 @@ import { EditIcon } from '../Components/Icons/EditIcon';
 import { PersonalCardIcon } from '../Components/Icons/PersonalCardIcon';
 import { CalendarIcon } from '../Components/Icons/CalendarIcon';
 import { SettingIcon } from '../Components/Icons/SettingIcon';
+import { FaqIcon } from '../Components/Icons/FaqIcon';
 
 import './styles/aside.css';
 
@@ -36,11 +37,24 @@ export function AppAside() {
             </NavLink>
           </li>
           <li>
+            <NavLink className="aside-row" to="Blog">
+              <EditIcon className="menu-icon" />
+              Blog
+            </NavLink>
+          </li>
+          <li>
             <NavLink className="aside-row" to="calendar">
               <CalendarIcon className="menu-icon" />
               Kalenadarz
             </NavLink>
           </li>
+          <li>
+            <NavLink className="aside-row" to="faq">
+              <FaqIcon className="menu-icon" />
+              FAQ
+            </NavLink>
+          </li>
+
           <hr />
           <li>
             <NavLink className="aside-row" to="settings">

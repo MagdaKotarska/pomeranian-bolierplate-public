@@ -1,0 +1,39 @@
+.title-standard-tags {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #131212;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bold;
+}
+.data-standard-tags {
+  line-height: 80px;
+  font-size: smaller;
+}
+.title2-standard-tags {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #131212;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
+.title3-standard-tags {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #131212;
+  font-size: 15px;
+  font-weight: bold;
+}
+.lists-standard-tags {
+  text-decoration: underline;
+}
+.word-standard-tags {
+  font-weight: bold;
+}
+.word2-standard-tags {
+  font-style: italic;
+}
+.word3-standard-tags {
+  text-decoration: line-through;
+}
+.word20-standard-tags {
+  word-spacing: 300px;
+}

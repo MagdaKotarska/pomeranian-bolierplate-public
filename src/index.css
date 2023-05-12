@@ -22,8 +22,8 @@ code {
     monospace;
 }
 
-*,
+/**,
 *:before,
 *:after {
   box-sizing: border-box;
-}
+}*/
