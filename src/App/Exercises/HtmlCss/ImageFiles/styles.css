@@ -1,2 +1,8 @@
-.font-test-family {
+.women-head-1 {
+  background-image: url('./neom-WZCMd9K-sHY-unsplash.jpg');
+  background-position: center center;
+  background-size: cover;
+
+  width: 256px;
+  height: 256px;
 }

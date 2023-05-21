@@ -1,0 +1,38 @@
+.header-blocks {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 100%;
+  gap: 1.5em;
+  margin-right: 20px;
+}
+.blocks1 {
+  border-radius: 8px;
+  padding: 20px 28px 20px 28px;
+  overflow: auto;
+  border: 0.66px solid #c8cbd1;
+}
+.header-block {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  margin-left: 20npmpx;
+}
+.header-block2 {
+  height: 34px;
+  width: 641px;
+  left: 266px;
+  top: 203px;
+  border-radius: nullpx;
+}
+.block-title {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+.block-center {
+  text-align: center;
+  margin: 5px;
+}

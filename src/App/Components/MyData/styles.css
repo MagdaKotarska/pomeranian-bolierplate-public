@@ -1,0 +1,10 @@
+.my-data {
+  display: flex;
+  align-content: space-evenly;
+  flex-direction: column;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.adress-my-data {
+  font-weight: lighter;
+}

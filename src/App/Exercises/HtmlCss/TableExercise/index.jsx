@@ -7,7 +7,7 @@ export function TableExercise() {
         1.The following data were collected by a group of students as they
         tested four different types of plastic.
       </h5>
-      <table>
+      <table className="first-table">
         <tr>
           <th>Plastic</th>
           <th>Acetone</th>
