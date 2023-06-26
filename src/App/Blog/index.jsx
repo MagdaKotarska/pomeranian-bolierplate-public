@@ -24,9 +24,9 @@ export const Blog = () => {
         <h4 className="data">20-11-2022</h4>
         <h1 className="title2">I make mistakes!</h1>
         <p className="paragraf2">
-          “I’m selfish, impatient and a little insecure. I make mistakes, I am
-          out of control and at times hard to handle. But if you can’t handle me
-          at my worst, then you sure as hell don’t deserve me at my best.”
+          “Im selfish, impatient and a little insecure. I make mistakes, I am
+          out of control and at times hard to handle. But if you cant handle me
+          at my worst, then you sure as hell dont deserve me at my best.”
         </p>
         <h4 className="signature3">Marylin Monroe</h4>
         <h4 className="signature">Radosław Majdan</h4>

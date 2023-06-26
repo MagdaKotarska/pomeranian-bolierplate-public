@@ -20,9 +20,9 @@ export function StandardTags() {
         <p>
           Make the next birthday you celebrate a special one with a hand-picked
           happy birthday <q>quote</q> or wish that will surely make that special
-          someone’s day a great day. Whether you’re celebrating your birthday or
-          someone else’s, you can rely on our list of <i>happy birthday</i>
-          <q>quotes</q> to help put a smile on someone’s face. From
+          someones day a great day. Whether youre celebrating your birthday or
+          someone elses, you can rely on our list of <i>happy birthday</i>
+          <q>quotes</q> to help put a smile on someones face. From
           inspirational to funny to cute sayings, browse our list of
           <q>quotes</q> to find one that resonates with you. <del>Nothing</del>
           can stop you!
@@ -60,11 +60,11 @@ export function StandardTags() {
         <p>
           Make the next birthday you celebrate a special one with a hand-picked
           happy birthday <q>quote</q> or wish that will surely make that special
-          someone’s day a great day. Whether you’re celebrating your birthday or
-          someone else’s, you can rely on our list of{' '}
+          someones day a great day. Whether youre celebrating your birthday or
+          someone elses, you can rely on our list of{' '}
           <span className="word2-standard-tags">happy birthday</span>
           <span className="word20-standard-tags">quotes</span> to help put a
-          smile on someone’s face. From inspirational to funny to cute sayings,
+          smile on someones face. From inspirational to funny to cute sayings,
           browse our list of
           <span>quotes</span> to find one that resonates with you.
           <span className="word3-standard-tags">Nothing</span>
