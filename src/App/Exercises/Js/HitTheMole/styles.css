@@ -1,0 +1,8 @@
+.button:hover {
+  background-color: #106a9a;
+  cursor: pointer;
+}
+.settings-container {
+  display: flex;
+  align-items: center;
+}
